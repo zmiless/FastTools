@@ -19,4 +19,7 @@ And Change The Value!
 * More Tools
 * And Much More!
 
-# Liked? So Download The Installer
+# Can't Run The Program?
+Try This!
+1. Install Python 3.11
+2. Install Que [requirements.txt](link)
