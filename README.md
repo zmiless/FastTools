@@ -22,4 +22,4 @@ And Change The Value!
 # Can't Run The Program?
 Try This!
 1. Install Python 3.11
-2. Install Que [requirements.txt](link)
+2. Install Que [requirements.txt](https://raw.githubusercontent.com/zmiless/FastTools/main/requirements.txt)
